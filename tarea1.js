@@ -74,7 +74,7 @@ function mensaje3()
        	 "<tr>"+
           "<td width='89'>"+
             "<div class='letra' id='piedra'>Piedra</div>"+
-            "<img src='img/piedra.png' class='box1' style='cursor:pointer;' id='0' onclick='e_v_d(0)'>"+         
+            "<img src='img/Piedra.png' class='box1' style='cursor:pointer;' id='0' onclick='e_v_d(0)'>"+         
           "</td>"+
 
           "<td width='72' rowspan='5'>&nbsp;</td>"+
@@ -84,28 +84,28 @@ function mensaje3()
         "<tr>"+
           "<td>"+ 
             "<div class='letra' id='papel'>Papel</div>"+
-            "<img src='img/papel.png' class='box1' style='cursor:pointer;' id='1' onclick='e_v_d(1)'>"+
+            "<img src='img/Papel.png' class='box1' style='cursor:pointer;' id='1' onclick='e_v_d(1)'>"+
           "</td>"+
         "</tr>"+
 
         "<tr>"+
           "<td>"+
             "<div class='letra' id='tijera'>Tijera</div>"+
-            "<img src='img/tijera.png' class='box1' style='cursor:pointer;' id='2' onclick='e_v_d(2)'>"+
+            "<img src='img/Tijera.png' class='box1' style='cursor:pointer;' id='2' onclick='e_v_d(2)'>"+
           "</td>"+
         "</tr>"+
 
         "<tr>"+
           "<td>"+
             "<div class='letra' id='lagarto'>Lagarto</div>"+
-            "<img src='img/lagarto.png' class='box1' style='cursor:pointer;' id='3' onclick='e_v_d(3)'>"+
+            "<img src='img/Lagarto.png' class='box1' style='cursor:pointer;' id='3' onclick='e_v_d(3)'>"+
           "</td>"+
         "</tr>"+
 
         "<tr>"+
           "<td>"+
             "<div class='letra' id='spock'>Spock</div>"+
-            "<img src='img/spock.png' class='box1' style='cursor:pointer;' id='4' onclick='e_v_d(4)'>"+
+            "<img src='img/Spock.png' class='box1' style='cursor:pointer;' id='4' onclick='e_v_d(4)'>"+
           "</td>"+
         "</tr>"+
 
