@@ -1,0 +1,48 @@
+.letra {
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); color: white;   margin: -16px;
+      }
+
+.letra1 {
+          color: white; 
+          font-size: 23px;
+          margin-left: 10px;
+        }
+
+.letra2 {
+          color: white; 
+          font-size: 23px;
+          text-align: right;
+          margin-right: 10px;
+        }
+
+.box1 {
+      	background:white;
+        margin-left: 70%;
+        -webkit-border-radius: 99px;
+        -moz-border-radius: 99px;
+        border-radius: 99px;
+        background-color:E8E8E8;
+        background:white;
+			 }
+
+.box2 {	
+        margin-left: 30px;
+        -webkit-border-radius: 99px;
+        -moz-border-radius: 99px;
+        border-radius: 50px;
+			 }
+
+
+.box3 {    
+        -webkit-border-radius: 99px;
+        -moz-border-radius: 99px;
+        border-radius: 99px;
+      }
+    
+
+.centrar {       
+          margin-top: 5%;  
+        }
+
